@@ -13,6 +13,9 @@ if req == "y":
 	print(colored("\nYou must be a root user to install requirements!\n",cn))
 	print(colored("\nIf it asks for password please Enter it!\n",cn))
 	system('sudo apt install figlet')
+	system('sudo apt install python')
+	system('sudo pip install termcolor')
+	system('sudo apt install ruby')
 	system('git clone https://github.com/busyloop/lolcat')
 	system('cd lolcat/bin && sudo gem install lolcat')
 
