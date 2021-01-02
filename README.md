@@ -18,7 +18,7 @@ So follow my steps
 Just type 
 ```bash android.requirements.sh``` 
  
- or you can also run that above command that I've provided after the preview file
+ or you can also run the above command that I've provided after the preview file
  
 then all requirements will be satisfied... If you get any error put that in issues page let me solve it ASAP
 
