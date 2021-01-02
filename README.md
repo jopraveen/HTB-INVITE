@@ -3,7 +3,11 @@ To run    ```python3 htb-invite.py```
 
 ![preview](htb-preview.gif)
 
-# In termux 
+If any Errors use this command
+
+```apt install figlet && git clone https://github.com/busyloop/lolcat && cd lolcat/bin && gem install lolcat```
+
+# In Termux
 
 If you're using this tool on Android you need to install some tools before running this
 
@@ -13,6 +17,8 @@ So follow my steps
 
 Just type 
 ```bash android.requirements.sh``` 
-
+ 
+ or you can also run that above command that I've provided after the preview file
+ 
 then all requirements will be satisfied... If you get any error put that in issues page let me solve it ASAP
 
