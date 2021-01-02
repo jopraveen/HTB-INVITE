@@ -5,7 +5,7 @@ To run    ```python3 htb-invite.py```
 
 If any Errors use this command
 
-```apt install figlet && git clone https://github.com/busyloop/lolcat && cd lolcat/bin && gem install lolcat```
+```apt install figlet && apt install python && pip install termcolor && apt install ruby && git clone https://github.com/busyloop/lolcat && cd lolcat/bin && gem install lolcat```
 
 # In Termux
 
