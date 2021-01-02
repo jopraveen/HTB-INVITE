@@ -16,7 +16,7 @@ if req == "y":
 	system('git clone https://github.com/busyloop/lolcat')
 	system('cd lolcat/bin && sudo gem install lolcat')
 
-# requirements satisfied ^^^^^
+# requirements satisfied ^^
 
 # HACKING NASA lol
 system('clear')
@@ -46,5 +46,4 @@ system('echo "Invite code Generator By Jopraveen" | lolcat -a -d 2')
 print()
 
 # Hacking invite code
-# running the bash file to generate and cut the code
 system('bash gen.sh')
